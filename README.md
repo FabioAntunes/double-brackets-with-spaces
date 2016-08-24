@@ -1,7 +1,7 @@
-# double-brackets-with-spaces package
+# double-brackets-with-spaces
 
-Insert spaces automatically between double brackets.
+Atom package that inserts spaces automatically between double brackets.
 
-Usefull for AngularJS, Angular 2, Laravel's Blade  and other template systems that use double braces syntax;
+Useful for AngularJS, Angular 2, Laravel's Blade  and other template systems that use double braces syntax;
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+![Useful screencast](https://cloud.githubusercontent.com/assets/2544673/17936188/e19d64aa-6a15-11e6-926a-df11eaab0895.gif)
