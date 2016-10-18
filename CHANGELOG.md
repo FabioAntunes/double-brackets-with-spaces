@@ -1,3 +1,7 @@
+## 1.0.2 - We have settings
+* Added settings info to the README file.
+## 1.0.1 - Dohh
+* Wrong screencast
 ## 1.0.0 - Single brackets
 * Added single brackets support
 ## 0.4.0 - Regexed
