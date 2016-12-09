@@ -11,3 +11,10 @@ There's also support for single brackets, just enable it on package settings.
 
 ## Single brackets example
 ![Another useful screencast](https://cloud.githubusercontent.com/assets/2544673/19492601/3b58e2f6-956f-11e6-9b78-45ba102fd4a6.gif)
+
+### Config Options
+
+* Enable single brackets support, disabled by default
+  * Only on imports
+  * Always
+* Enable adding spaces between brackets on pasted text, disabled by default
