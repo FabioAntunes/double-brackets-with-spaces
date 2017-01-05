@@ -1,3 +1,6 @@
+## 2.0.1 - Two Hundred and one
+* When having the same file opened multiple times, only add spaces once.
+
 ## 2.0.0 - Twozord
 * Removed duplicated logic and simplified the code
 * New package setting, that allows to enable/disable adding spaces to pasted code, disable by default
