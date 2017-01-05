@@ -1,3 +1,6 @@
+## 2.0.2 - Bummer
+* Sometimes Atom doesn't have an Active editor
+
 ## 2.0.1 - Two Hundred and one
 * When having the same file opened multiple times, only add spaces once.
 
