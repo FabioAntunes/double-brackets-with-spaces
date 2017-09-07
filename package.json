@@ -7,7 +7,7 @@
   "repository": "https://github.com/FabioAntunes/double-brackets-with-spaces",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <1.9.0"
+    "atom": ">=1.9.0 <2.0.0"
   },
   "dependencies": {}
 }
