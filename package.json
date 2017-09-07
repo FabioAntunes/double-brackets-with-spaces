@@ -1,7 +1,7 @@
 {
   "name": "double-brackets-with-spaces",
   "main": "./lib/double-brackets-with-spaces",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Insert spaces automatically between double brackets",
   "keywords": [],
   "repository": "https://github.com/FabioAntunes/double-brackets-with-spaces",
